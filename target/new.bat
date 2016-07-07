@@ -1,0 +1,1 @@
+java -cp *  ru.beeline.hadoop.rdbddl.IDdlScript --help

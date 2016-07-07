@@ -1,0 +1,1 @@
+java -cp *  ru.beeline.hadoop.rdbddl.IDdlScript --servername localhost --port 3306 --databasename mybd --tablename users --outtablename users --dbtype mysql --partition users_login
